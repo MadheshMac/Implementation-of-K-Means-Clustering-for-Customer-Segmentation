@@ -13,8 +13,6 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 ```
 ## Program:
 ```
-/*
-Program to implement the K Means Clustering for Customer Segmentation.
 Developed by: Madheswaran
 RegisterNumber: 212222040090
 import pandas as pd
@@ -55,7 +53,7 @@ plt.scatter(df4["Annual Income (k$)"],df4["Spending Score (1-
 100)"],c="magenta",label="cluster4")
 plt.legend()
 plt.title("Customer Segments")
-*/
+
 ```
 ## Output:
 ## data.head()
