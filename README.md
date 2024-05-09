@@ -1,12 +1,9 @@
 # Implementation-of-K-Means-Clustering-for-Customer-Segmentation
-
 ## AIM:
 To write a program to implement the K Means Clustering for Customer Segmentation.
-
 ## Equipments Required:
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
-
 ## Algorithm
 ```
 1.Import pandas and matplotlib.pyplot  
@@ -60,27 +57,18 @@ plt.legend()
 plt.title("Customer Segments")
 */
 ```
-
 ## Output:
 ## data.head()
 ![image](https://github.com/DEEPAK2200233/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118707676/684e658b-6f02-49cf-86a1-514c7a262972)
-
 ## data.info()
 ![image](https://github.com/DEEPAK2200233/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118707676/1f8d0a9a-65da-4bbf-94d1-22c22fd90b90)
-
 ## data.isnull()
 ![image](https://github.com/DEEPAK2200233/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118707676/e7e811f3-2504-4199-acc4-9442939b0012)
-
 ## Elbow method Graph
 ![image](https://github.com/DEEPAK2200233/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118707676/a5d0c480-2810-45b7-b815-bdf16dca1e7a)
-
 ## Kmeans cluster
 ![image](https://github.com/DEEPAK2200233/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118707676/4a5872bd-758e-4eb0-a820-802aef41e188)
-
 ## Cluster segments Graphs
 ![image](https://github.com/DEEPAK2200233/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118707676/037b5149-4fc9-4c65-8dfb-ffd66a7f4246)
-
-
-
 ## Result:
 Thus the program to implement the K Means Clustering for Customer Segmentation is written and verified using python programming.
